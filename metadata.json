@@ -1,0 +1,11 @@
+﻿{
+    "requestFramePermissions":  [
+
+                                ],
+    "majorCapabilities":  [
+                              "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+                          ],
+    "description":  "Cinematic 3D endless-runner game featuring Shafin, Nafis, and police chaser Jubayer through futuristic neon cities, vehicles, and sky flight.",
+    "name":  "Jubayer Legends",
+    "aiStudioUrl":  "https://ai.studio/apps/8bc3f588-063b-4d86-85fc-f9115b059d7a"
+}
